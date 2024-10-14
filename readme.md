@@ -1,4 +1,4 @@
-# Udacity_collab-compet
+# collab-compet
 
 ## Project detail
 This project solves the [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment. 
