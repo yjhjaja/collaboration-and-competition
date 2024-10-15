@@ -11,7 +11,7 @@ When the average (over 100 episodes) of those **scores** is at least 0.5, the en
 
 We use the Deep Deterministic Policy Gradients (DDPG) algorithm.
 
-Follow the instructions below to explore the environment on your own machine! You will also learn how to use the Python API to control your agent.
+Follow the instructions below to explore the environment.
 
 ## Step 1: Activate the Environment
 
