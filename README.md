@@ -11,7 +11,7 @@ The task is episodic, and to solve the environment, the agents must get an avera
 
 We use the Deep Deterministic Policy Gradients (DDPG) algorithm.
 
-Follow the instructions below to explore the environment.
+Follow the instructions below to explore the environment. One only needs to run the notebook, and most other files in the folder are either inputs (model.py, ddpg_agent.py, the Tennis environment) or outputs (the .pth files and unity-environment.log).
 
 ## Step 1: Activate the Environment
 
@@ -61,5 +61,3 @@ Then, place the file in the folder, i.e., the one that contains the current mark
 ## Step 3: Explore the Environment
 
 After following the instructions above, open Tennis.ipynb and follow the instructions to learn how to control the agents.
-
-Most other files in the folder are either inputs (model.py, ddpg_agent.py, the Tennis environment) or outputs (the .pth files and unity-environment.log) of the notebook. The remaining files are just reports detailing the implementation.
