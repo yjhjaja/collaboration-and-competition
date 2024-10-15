@@ -58,8 +58,6 @@ Select the environment that matches the operating system
 
 Then, place the file in the folder, i.e., the one that contains the current markdown file, and unzip (or decompress) the file.
 
-(For Windows users) Check out [this link](https://support.microsoft.com/en-us/help/827218/how-to-determine-whether-a-computer-is-running-a-32-bit-version-or-64) if you need help with determining if your computer is running a 32-bit version or 64-bit version of the Windows operating system
-
 ## Step 3: Explore the Environment
 
 After you have followed the instructions above, open Tennis.ipynb (located in the folder) and follow the instructions to learn how to use the Python API to control the agent. There is only one line to modify as noted in the first cell in the notebook. 
