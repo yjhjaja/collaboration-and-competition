@@ -34,10 +34,8 @@ To set up the python environment to run the code in this repository, follow the 
 
 3. Follow the instructions in [this repository](https://github.com/openai/gym) to perform a minimal install of OpenAI gym, and the **classic control** and **box2d** environment environment groups.
 	
-4. Clone the repository, and navigate to the `python/` folder. Then, install several dependencies.  
+4. Install several dependencies.  
     ```bash
-    git clone https://github.com/udacity/deep-reinforcement-learning.git
-    cd deep-reinforcement-learning/python
     pip install .
     ```
 
