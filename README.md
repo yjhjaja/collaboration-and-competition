@@ -50,7 +50,7 @@ To set up the python environment to run the code in this repository, follow the 
 
 ## Step 2: Download the Unity Environment
 
-Select the environment that matches your operating system
+Select the environment that matches the operating system
 - [Linux](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux.zip)
 - [Mac OSX](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis.app.zip)
 - [Windows (32-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86.zip)
