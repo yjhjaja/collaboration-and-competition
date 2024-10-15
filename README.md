@@ -30,7 +30,7 @@ To set up the python environment to run the code in this repository, follow the 
 	activate drlnd
 	```
 	
-2. If running in **Windows**, ensure you have the "Build Tools for Visual Studio 2019" installed from this [site](https://visualstudio.microsoft.com/downloads/).  This [article](https://towardsdatascience.com/how-to-install-openai-gym-in-a-windows-environment-338969e24d30) may also be very helpful.  This was confirmed to work in Windows 10 Home.  
+2. If running in **Windows**, ensure the "Build Tools for Visual Studio 2019" is installed from this [site](https://visualstudio.microsoft.com/downloads/).  This [article](https://towardsdatascience.com/how-to-install-openai-gym-in-a-windows-environment-338969e24d30) may also be very helpful.  This was confirmed to work in Windows 10 Home.  
 
 3. Follow the instructions in [this repository](https://github.com/openai/gym) to perform a minimal install of OpenAI gym, and the **classic control** and **box2d** environment environment groups.
 	
