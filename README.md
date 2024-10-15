@@ -11,7 +11,7 @@ The task is episodic, and to solve the environment, the agents must get an avera
 
 We use the Deep Deterministic Policy Gradients (DDPG) algorithm.
 
-Follow the instructions below to explore the environment. One only needs to run the notebook, and most other files in the folder are either inputs (model.py, ddpg_agent.py, the Tennis environment) or outputs (the .pth files and unity-environment.log).
+Follow the instructions below to explore the environment. One essentially only needs to run the notebook, and most other files in the folder are either inputs (model.py, ddpg_agent.py, the Tennis environment) or outputs (the .pth files and unity-environment.log).
 
 ## Step 1: Activate the Environment
 
@@ -34,7 +34,7 @@ To set up the python environment to run the code in this repository, follow the 
 
 3. Follow the instructions in [this repository](https://github.com/openai/gym) to perform a minimal install of OpenAI gym, and the **classic control** and **box2d** environment environment groups.
 	
-4. Clone the repository, and navigate to the `python/` folder.  Then, install several dependencies.  
+4. Clone the repository, and navigate to the `python/` folder. Then, install several dependencies.  
     ```bash
     git clone https://github.com/udacity/deep-reinforcement-learning.git
     cd deep-reinforcement-learning/python
