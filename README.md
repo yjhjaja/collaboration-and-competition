@@ -9,8 +9,6 @@ The task is episodic, and to solve the environment, the agents must get an avera
 - After each episode, we add up the rewards that each agent received (without discounting), to get a score for each agent. This yields 2 (potentially different) scores. We then take the maximum of these 2 scores.
 - This yields a single **score** for each episode.
 
-When the average (over 100 episodes) of those **scores** is at least 0.5, the environment is considered solved.
-
 We use the Deep Deterministic Policy Gradients (DDPG) algorithm.
 
 Follow the instructions below to explore the environment.
