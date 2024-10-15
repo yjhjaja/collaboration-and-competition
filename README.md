@@ -60,6 +60,6 @@ Then, place the file in the folder, i.e., the one that contains the current mark
 
 ## Step 3: Explore the Environment
 
-After you have followed the instructions above, open Tennis.ipynb (located in the folder) and follow the instructions to learn how to use the Python API to control the agent. There is only one line to modify as noted in the first cell in the notebook. 
+After following the instructions above, open Tennis.ipynb (located in the folder) and follow the instructions to learn how to use the Python API to control the agent.
 
 Most other files in the folder are either inputs (model.py, ddpg_agent.py, the Tennis environment) or outputs (the .pth files and unity-environment.log) of the notebook. The remaining files are just reports detailing the implementation.
