@@ -32,11 +32,9 @@ To set up the python environment to run the code in this repository, follow the 
 	
 2. If running in **Windows**, ensure you have the "Build Tools for Visual Studio 2019" installed from this [site](https://visualstudio.microsoft.com/downloads/).  This [article](https://towardsdatascience.com/how-to-install-openai-gym-in-a-windows-environment-338969e24d30) may also be very helpful.  This was confirmed to work in Windows 10 Home.  
 
-3. Follow the instructions in [this repository](https://github.com/openai/gym) to perform a minimal install of OpenAI gym.  
-	- Next, install the **classic control** environment group by following the instructions [here](https://github.com/openai/gym#classic-control).
-	- Then, install the **box2d** environment group by following the instructions [here](https://github.com/openai/gym#box2d).
+3. Follow the instructions in [this repository](https://github.com/openai/gym) to perform a minimal install of OpenAI gym, and the **classic control** and **box2d** environment environment groups.
 	
-4. Clone the repository (if you haven't already!), and navigate to the `python/` folder.  Then, install several dependencies.  
+4. Clone the repository, and navigate to the `python/` folder.  Then, install several dependencies.  
     ```bash
     git clone https://github.com/udacity/deep-reinforcement-learning.git
     cd deep-reinforcement-learning/python
