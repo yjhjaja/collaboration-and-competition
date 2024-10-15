@@ -54,7 +54,7 @@ Select the environment that matches the operating system
 - [Windows (32-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86.zip)
 - [Windows (64-bit)](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip)
 
-Then, place the file in the folder, i.e., the one containing the current markdown file, and unzip (or decompress) the file.
+Then, place the file in the folder, i.e., the one containing the README file, and unzip (or decompress) the file.
 
 ## Step 3: Explore the Environment
 
